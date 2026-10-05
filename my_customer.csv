@@ -1,0 +1,2 @@
+cust_id,first_name,last_name,address,city,state,postal,email,balance,credit_limit,rep_id
+922,Anthony,Restivo,100 College Rd,Cody,WY,82414,arestivo@example.com,360.00,500.00,15
